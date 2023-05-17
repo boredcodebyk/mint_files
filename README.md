@@ -1,16 +1,19 @@
-# mint_files
+# Mint Files (Alpha)
 
-A new Flutter project.
+A simple and basic open-source file explorer app with Material Design 3.
 
-## Getting Started
+This is in alpha stage since I'm making this while learning Flutter, so the development will be slow.
 
-This project is a starting point for a Flutter application.
+## Features 
 
-A few resources to get you started if this is your first Flutter project:
+There isn't a lot feature right now. To look at possible upcoming features, look at Project tab.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Create folder 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Breadcrumbs navigation 
+
+- Themes: Both light mode and dark mode available and automatically uses system color scheme on Android 12+ 
+
+## Work in progress
+
+The work is in progress for this app. If any issues arises or if you have any suggestions to put forward, please open an issue ticket with label either "bug" or "feature request" respectively.
